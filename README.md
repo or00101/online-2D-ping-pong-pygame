@@ -1,1 +1,2 @@
-# online-2D-ping-pong-pygame
+# online 2D ping pong - pygame
+
