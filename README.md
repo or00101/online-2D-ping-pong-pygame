@@ -22,6 +22,7 @@ Now you can start the game manually by typing:
 
 or you can deactivate the venv:
 > deactivate
+
 and get on with your life...
 
 now whenever you want to play, start the game by typing to the Terminal:
