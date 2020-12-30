@@ -31,4 +31,4 @@ now whenever you want to play, start the game by typing to the Terminal:
 Have fun!
 
 # Preview of the game so far:
-<img src="https://github.com/or00101/online-2D-ping-pong-pygame/blob/or00101-patch-1/preview%20-%20patch1.png" width="500"/>
+<img src="./blob/or00101-patch-1/preview%20-%20patch1.png" width="500"/>
